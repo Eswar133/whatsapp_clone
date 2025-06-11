@@ -74,3 +74,11 @@ For detailed configuration and development guides:
 - GridFS for file storage
 - JWT for authentication
 
+### Working Functionality - video
+
+https://github.com/user-attachments/assets/e0cbad5c-91b9-4e76-b221-227b22992c99
+
+
+
+
+
