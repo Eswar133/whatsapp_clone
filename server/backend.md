@@ -27,8 +27,7 @@ This is the **backend** for a real-time chat application built with **Node.js**,
 ├── database/            # MongoDB connection logic
 ├── modal/               # Mongoose schemas (User, Message, Conversation)
 ├── routes/              # API route definitions
-├── utils/               # Utility functions (e.g., file upload config)
-├── start                # Socket.IO server entry
+├── utils/               # Utility functions                 
 ├── index.js             # Express server entry
 ├── .env                 # Environment variables (not committed)
 └── README.md
